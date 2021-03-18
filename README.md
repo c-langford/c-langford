@@ -2,7 +2,7 @@ Chloê Langford https://co-ordinat.es @greenred123
 
 Artist + Programmer at:
 
-Fantasia Malware (https://fantasia-malware.net)
+Fantasia Malware (https://fantasia-malware.net)  
 Brain Simulation Section Charite (https://brainsimulation.org)
 
 <!---
